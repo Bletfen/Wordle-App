@@ -24,7 +24,6 @@ export default function RootLayout({
         flex-col items-center justify-center min-h-screen
         bg-[#262b3c]`}
       >
-        <Header />
         {children}
       </body>
     </html>
