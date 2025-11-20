@@ -18,7 +18,7 @@ Players have 6 attempts to guess a daily 5-letter Georgian word.
 
 ## 🔗 Live Demo
 
-👉 **Play here:** https://wordle-app-lilac.vercel.app/
+👉 **Play here:** https://wordle-app-murex.vercel.app/
 
 ---
 
